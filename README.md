@@ -4,4 +4,4 @@ An implementation of photon mapping added to a basic raytracer to implement glob
 The final product can be seen below. 
 
 
-![](FinalBunny.png)
+![](Final Bunny.png)
